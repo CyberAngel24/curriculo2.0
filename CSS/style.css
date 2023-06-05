@@ -1,0 +1,25 @@
+.container{
+    background-color: black;
+    border:5px solid black;
+    padding:15px;
+    display:grid;
+    gap:10px;}
+
+#header{
+    grid-area:header;
+    text-align: center;
+}
+
+img{
+
+    height: 150px;
+    width:150px;
+    padding-top: 20px;
+}
+
+body{
+    
+   padding: 15px;
+    
+}
+
